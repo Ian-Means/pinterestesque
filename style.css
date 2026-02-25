@@ -11,6 +11,7 @@ Colors:
 }
 body {
     background-color: #CFFFDC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .column {
     position: absolute;
